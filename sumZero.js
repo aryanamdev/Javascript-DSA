@@ -11,5 +11,4 @@ function sumZero(array) {
     }
   }
 }
-
 console.log(sumZero(arr));
